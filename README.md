@@ -10,4 +10,17 @@ Based on [this](https://steamcommunity.com/sharedfiles/filedetails/?id=259405674
 > 
 > Epic also uses EOS to yet again collect telemetry on player IP addresses, hardware, gaming sessions (among others) in yet another way of involving themselves in games that, in some cases, are neither made with Unreal or even released on EGS.
 
+For more info please refer to the Steam guide mentioned above.
+## Usage
+
+_If you've landed on this repo you probably already know how to do it, but I'll write it anyway._
+
+- Open your AdGuard Home web interface
+- Filters
+- DNS Blocklists
+- Add blocklist
+- Add a custom list
+- Enter a name in the upper textfield (i.e.: EOS Blocklist) & paste this (`https://gitlab.com/Xelofan/epic-games-eos-blocklist/-/raw/main/eos-blocklist.txt`) in the lower field
+- Profit
+
 _*I am not affiliated in any way with the people created the guide._
