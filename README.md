@@ -20,7 +20,7 @@ _If you've landed on this repo you probably already know how to do it, but I'll 
 - DNS Blocklists
 - Add blocklist
 - Add a custom list
-- Enter a name in the upper textfield (i.e.: EOS Blocklist) & paste this (`https://gitlab.com/Xelofan/epic-games-eos-blocklist/-/raw/main/eos-blocklist.txt`) in the lower field
-- Profit
+- Enter a name in the upper textfield (i.e.: EOS Blocklist) & paste this (`https://raw.githubusercontent.com/Xelofan/epic-games-eos-blocklist/main/eos-blocklist.txt`) in the lower field
+- Done
 
 _*I am not affiliated in any way with the people created the guide._
